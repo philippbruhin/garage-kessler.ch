@@ -2421,6 +2421,12 @@ input:-ms-input-placeholder {
   .pad-60-print {
     padding: 60px; } }
 
+.wrapper {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px; }
+  .wrapper img {
+    margin-bottom: 20px; }
+
 .video-background {
   background: #000;
   position: fixed;
